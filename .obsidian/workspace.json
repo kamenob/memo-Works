@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "a313ee77cb18f8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "16de7ee641b86929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a162df9632fddf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9aba8afe7c619a4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "51af232ffe532ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df9eb4017697a450",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "734d7ab6de540e3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b1e77598028a8f3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e96861545e34d986",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd2179164683537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b08bace6686f7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbd87ecec24d8d8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2198bdb2b11bdbb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bfd3a522fc85f11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "b1a162df9632fddf",
+  "lastOpenFiles": [
+    "メモ/ツール系ブックマーク.md",
+    "メモ/成果物チェック.md",
+    "メモ/Kzリンクリスト.md",
+    "プロジェクト/2月22日(水)17：00 【Meet】やまきさまオンラインMTG.md",
+    "プロジェクト/2月03日(金)10：00 やまき ３社.md",
+    "プロジェクト/1月24日(火)18：00　TLG様_定例.md",
+    "プロジェクト/マツオカ製紙　制作スケジュール.md",
+    "プロジェクト/2023_01　健ハウジング_リニューアル検討.md",
+    "プロジェクト/2月02日(木)14：00 ファーストトロフィー コアMTG.md",
+    "プロジェクト/G.ジェミニウム/2023年3月24日(金) ジェミニウム.md",
+    "プロジェクト/G.ジェミニウム",
+    "プロジェクト/2023_01　三千盛_カートシステム調査.md",
+    "プロジェクト/やまき/2月10日(金)サイトストラクチャ確認結果 2.md",
+    "プロジェクト/やまき/2023_0120　やまき顔合わせ 2.md",
+    "プロジェクト/やまき/2月10日(金)サイトストラクチャ確認結果.md",
+    "プロジェクト/やまき/サイトリニューアル：要件 2.md",
+    "プロジェクト/やまき/サイトリニューアル：要件.md",
+    "プロジェクト/やまき/2023_0120　やまき顔合わせ.md",
+    "プロジェクト/やまき",
+    "プロジェクト/1月31日(火)14：00 BUMP Zoom HP運営について.md",
+    "プロジェクト/SPA_Calm.md",
+    "プロジェクト/K.片付け堂/2023年3月23日(木) 片付け堂.md",
+    "プロジェクト/K.片付け堂",
+    "プロジェクト/K.コガソフトウェア/スマイルチア/再考：サイトマップ 2.canvas",
+    "プロジェクト/K.コガソフトウェア/スマイルチア/再考：参考サイト 2.md",
+    "プロジェクト/K.コガソフトウェア/スマイルチア/2023年3月22日(水)　コガ様からのFB.md",
+    "プロジェクト/K.コガソフトウェア/スマイルチア/無題のファイル.md",
+    "プロジェクト/K.コガソフトウェア/スマイルチア/再考：参考サイト.md",
+    "プロジェクト/K.コガソフトウェア/スマイルチア/無題のファイル 2.md",
+    "プロジェクト/K.コガソフトウェア/スマイルチア/再考：サイトマップ.canvas",
+    "プロジェクト/K.コガソフトウェア/スマイルチア",
+    "プロジェクト/K.コガソフトウェア",
+    "プロジェクト/2月14日(火)14：00 トロフィーコアMTG.md",
+    "プロジェクト/G.豪商事",
+    "プロジェクト/O.オオツカ",
+    "プロジェクト/S.STUDIO 4H",
+    "プロジェクト/T.東京住建/なんでも買取不動産/サイトマップ 2.canvas",
+    "プロジェクト/T.東京住建/なんでも買取不動産/サイトマップ.canvas",
+    "プロジェクト/T.東京住建/なんでも買取不動産",
+    "プロジェクト/T.東京住建",
+    "プロジェクト/東京タクシーセンター/サイトマップ.canvas",
+    "プロジェクト/東京タクシーセンター/サイトマップ 2.canvas"
+  ]
+}
